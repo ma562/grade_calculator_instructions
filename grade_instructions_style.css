@@ -165,7 +165,7 @@
 	overflow: hidden;
 	left: 20%;
 	width: 60%;
-	top: 450px;
+	top: 480px;
 	border-radius: 10px;
 	position: absolute
 }
@@ -258,13 +258,13 @@
 	color: white;
 	width: 44%;
 	position: absolute;
-	height: 700px;
+	height: 800px;
 }
 
 .image_7 {
 	overflow: hidden;
 	border-radius: 10px;
-	width: 23%;
+	width: 20%;
 	position: absolute;
 	right: -0.5%;
 }
@@ -273,6 +273,22 @@
 	overflow: hidden;
 	border-radius: 10px;
 	width: 60%;
+	position: absolute;
+	left: 5%;
+}
+
+.image_9 {
+	overflow: hidden;
+	border-radius: 10px;
+	width: 50%;
+	position: absolute;
+	right: 5%;
+}
+
+.image_10 {
+	overflow: hidden;
+	border-radius: 10px;
+	width: 30%;
 	position: absolute;
 	left: 5%;
 }
