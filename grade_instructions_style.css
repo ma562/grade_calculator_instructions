@@ -231,3 +231,11 @@
 	position: absolute
 }
 
+.image_5 {
+	overflow: hidden;
+	border-radius: 10px;
+	width: 20%;
+	position: absolute;
+	right: 5%;
+}
+
