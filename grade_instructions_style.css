@@ -317,8 +317,44 @@
 
 .image_12 {
 	overflow: hidden;
-	border-radius: 2px;
+	border-radius: 10px;
 	width: 60%;
 	position: absolute;
 	left: 5%;
+}
+
+.image_13 {
+	overflow: hidden;
+	border-radius: 10px;
+	width: 30%;
+	position: absolute;
+	bottom: 4%;
+	left: 5%;	
+}
+
+.image_14 {
+	overflow: hidden;
+	border-radius: 10px;
+	width: 50%;
+	position: absolute;
+	bottom: -1%;
+	right: 1%;	
+}
+
+.image_15 {
+	overflow: hidden;
+	border-radius: 10px;
+	width: 15%;
+	position: absolute;
+	bottom: 18%;
+	right: 35%;
+}
+
+.image_16 {
+	overflow: hidden;
+	border-radius: 10px;
+	width: 15%;
+	position: absolute;
+	bottom: 18%;
+	right: 5%;
 }
