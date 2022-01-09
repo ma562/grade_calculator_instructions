@@ -83,6 +83,7 @@
 
 
 .main_body {
+	overflow: hidden;
 	top: 10%;
 	background-color: transparent;
 	position: absolute;
@@ -90,6 +91,7 @@
 }
 
 .walkthrough {
+	overflow: hidden;
 	font-family: 'Nova Flat';
 	color: black;
 	width: 100%;
@@ -98,6 +100,7 @@
 
 .explanation {
 	overflow: hidden;
+	overflow: hidden;
 	background-color: yellow;
 	color: black;
 	width: 100%;
@@ -105,6 +108,7 @@
 }
 
 .walk_header {
+	overflow: hidden;
 	overflow: hidden;
 	align-items: center;
 	width: 20%;
@@ -121,11 +125,12 @@
 }
 
 .first_step {
+	overflow: hidden;
 	align-items: center;
 	width: 20%;
 	top: 90px;
 	left: 2%;
-	height: 610px;
+	height: 630px;
 	padding: 10;
 	font-size: 17;
 	position: absolute;
@@ -135,11 +140,12 @@
 }
 
 .second_step {
+	overflow: hidden;
 	align-items: center;
 	width: 20%;
 	top: 20px;
 	left: 26%;
-	height: 680px;
+	height: 700px;
 	padding: 10;
 	font-size: 17;
 	position: absolute;
@@ -148,11 +154,21 @@
 	border-radius: 10px;
 }
 
+.image {
+	left: 10%;
+	width: 80%;
+	top: 140px;
+	border-radius: 10px;
+	position: absolute
+}
+
 .second_list {
+	overflow: hidden;
 	background-color: transparent;
 }
 
 .grades {
+	overflow: hidden;
 	top: 20px;
 	border-radius: 5px;
 	position: relative;
