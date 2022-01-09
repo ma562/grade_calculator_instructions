@@ -197,6 +197,15 @@
 	height: 320px;
 }
 
+.image_3 {
+	overflow: hidden;
+	left: 2.5%;
+	width: 55%;
+	/*top: 450px;*/
+	border-radius: 10px;
+	position: absolute
+}
+
 .fourth_step {
 	padding: 10;
 	border-radius: 10px;
