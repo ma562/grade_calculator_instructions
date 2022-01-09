@@ -156,9 +156,18 @@
 
 .image {
 	overflow: hidden;
-	left: 10%;
-	width: 80%;
+	left: 20%;
+	width: 60%;
 	top: 140px;
+	border-radius: 10px;
+	position: absolute
+}
+
+.image_2 {
+	overflow: hidden;
+	left: 20%;
+	width: 60%;
+	top: 450px;
 	border-radius: 10px;
 	position: absolute
 }
