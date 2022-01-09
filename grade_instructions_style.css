@@ -212,10 +212,22 @@
 	overflow: hidden;
 	left: 50%;
 	top: 400px;
-	background: green;
+	background: #18191a;
+	color: white;
 	width: 46%;
 	position: absolute;
 	height: 320px;
 }
 
+.image_4 {
+	overflow: hidden;
+	border-radius: 10px;
+	top: 10px;
+	right: 2.5%;
+	width: 30%;
+	float: right;
+	/*top: 450px;*/
+	border-radius: 10px;
+	position: absolute
+}
 
