@@ -292,3 +292,33 @@
 	position: absolute;
 	left: 5%;
 }
+
+.sixth_step {
+	padding: 10;
+	border-radius: 10px;
+	overflow: hidden;
+	right: 2.5%;
+	top: 775px;
+	background: #18191a;
+	color: white;
+	width: 46%;
+	position: absolute;
+	height: 800px;
+}
+
+.image_11 {
+	overflow: hidden;
+	border-radius: 2px;
+	width: 25%;
+	top: 0;
+	position: absolute;
+	right: -1%;
+}
+
+.image_12 {
+	overflow: hidden;
+	border-radius: 2px;
+	width: 60%;
+	position: absolute;
+	left: 5%;
+}
