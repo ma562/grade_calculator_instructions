@@ -239,3 +239,12 @@
 	right: 5%;
 }
 
+.image_6 {
+	overflow: hidden;
+	border-radius: 10px;
+	width: 40%;
+	position: absolute;
+	top: 135px;
+	left: 10%;
+}
+
