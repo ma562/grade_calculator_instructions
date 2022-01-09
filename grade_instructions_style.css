@@ -95,11 +95,10 @@
 	font-family: 'Nova Flat';
 	color: black;
 	width: 100%;
-	height: 500px;
+	height: 1000px;
 }
 
 .explanation {
-	overflow: hidden;
 	overflow: hidden;
 	background-color: yellow;
 	color: black;
@@ -108,7 +107,6 @@
 }
 
 .walk_header {
-	overflow: hidden;
 	overflow: hidden;
 	align-items: center;
 	width: 20%;
@@ -184,6 +182,31 @@
 	position: relative;
 	background-color:  black;
 	color: white;
+}
+
+.third_step {
+	padding: 10;
+	border-radius: 10px;
+	overflow: hidden;
+	left: 50%;
+	top: 20px;
+	background: #18191a;
+	color: white;
+	width: 46%;
+	position: absolute;
+	height: 320px;
+}
+
+.fourth_step {
+	padding: 10;
+	border-radius: 10px;
+	overflow: hidden;
+	left: 50%;
+	top: 400px;
+	background: green;
+	width: 46%;
+	position: absolute;
+	height: 320px;
 }
 
 
