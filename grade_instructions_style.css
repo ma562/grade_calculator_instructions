@@ -25,9 +25,9 @@
 	font-size: 18;
 	background-color: white;
 	border-color: black;
-	width: 10%;
+	width: 15%;
 	height: 60%;
-	left: 55%;
+	right: 10%;
 	color: black;
 	border-radius: 25px;
 	position: absolute
@@ -39,7 +39,7 @@
 	color: white;	
 }
 
-#example {
+/*#example {
 	overflow: hidden;
 	font-family: 'Nova Flat';
 	top: 10%;
@@ -79,7 +79,7 @@
 	cursor: pointer;
 	background-color: black;
 	color: white;
-}
+}*/
 
 
 .main_body {
